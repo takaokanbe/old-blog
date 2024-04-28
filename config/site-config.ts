@@ -1,13 +1,13 @@
 const siteConfig = {
-  title: 'le0tk0k.github.io',
-  baseURL: 'https://le0tk0k.github.io',
-  description: "le0tk0k's personal website.",
+  title: 'takaokanbe.github.io',
+  baseURL: 'https://takaokanbe.github.io',
+  description: "takaokanbe's personal website.",
   author: {
-    name: 'le0tk0k',
-    github: 'https://github.com/le0tk0k',
-    twitter: 'https://twitter.com/le0tk0k',
+    name: 'takaokanbe',
+    github: 'https://github.com/takaokanbe',
+    twitter: 'https://twitter.com/takaokanbe',
   },
-  copyright: '© 2021 le0tk0k',
+  copyright: '© 2024 takaokanbe',
 }
 
 export default siteConfig
