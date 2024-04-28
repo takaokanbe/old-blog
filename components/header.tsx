@@ -12,7 +12,7 @@ const Header = () => {
             <NextLink href='/' passHref>
               <chakra.a
                 display='block'
-                aria-label='le0tk0k.github.io, Back to homepage'
+                aria-label='takaokanbe.github.io, Back to homepage'
                 fontSize='lg'
                 fontWeight='black'
               >
@@ -24,14 +24,14 @@ const Header = () => {
             <HStack spacing='4' display='flex'>
               <Link
                 isExternal
-                aria-label='Go to le0tk0k GitHub page'
+                aria-label='Go to takaokanbe GitHub page'
                 href={siteConfig.author.github}
               >
                 <Icon as={GitHubIcon} display='block' w='5' h='5' />
               </Link>
               <Link
                 isExternal
-                aria-label='Go to le0tk0k twitter page'
+                aria-label='Go to takaokanbe twitter page'
                 href={siteConfig.author.twitter}
               >
                 <Icon as={TwitterIcon} display='block' w='5' h='5' />
